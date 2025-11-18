@@ -83,6 +83,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurab-rauniyar-51072a17/)  
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uIqxfbkAAAAJ)  
 [![Email](https://img.shields.io/badge/Email-rauniyar9@gmail.com-orange?style=for-the-badge&logo=gmail)](mailto:rauniyar9@gmail.com)  
+https://www.credential.net/profile/saurabr/wallet
 
 ---
 
